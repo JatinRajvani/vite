@@ -6,5 +6,5 @@ import Ludo from './Ludo.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
   <Ludo/>
-  </StrictMode>,
+  </StrictMode>
 )
